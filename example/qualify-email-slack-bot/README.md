@@ -4,7 +4,7 @@
 
 Receive notifications in Slack like this:
 
-![](/media/qualify-email-slack-bot.png)
+![](../../media/slack-message-example.png)
 
 ## How to use
 
