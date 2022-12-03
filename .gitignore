@@ -1,1 +1,9 @@
 .env
+
+# Ignore all pycache folders
+__pycache__
+__pycache__/
+
+# Ignore all .pyc files
+*.pyc
+.DS_Store

@@ -6,10 +6,18 @@ Use GPT-3 to answer questions using Google for you. This is a simple script that
 
 ## How to use
 
-1. Create an [OpenAI API](https://openai.com/api/) key and save it your environment variables as `OPENAI_API_KEY` - See (`.env.example`)[.env.example] for an example.
+1. Create an [OpenAI API](https://openai.com/api/) key and save it your environment variables as `OPENAI_API_KEY` - See [`.env.example`](.env.example) for an example.
 2. Run `pip install -r requirements.txt` to install the dependencies.
 3. Run `python main.py` to run the script.
 4. Write your question and keep pressing enter to see GPT-3 making steps to answer it.
+
+## Examples
+
+In the /examples folder you can find examples of how to build on top of this script - feel free to add your own:
+
+![](/media/slack-message-example.png)
+
+- [Qualify new sign ups](examples/qualify_new_signups.py) - Use GPT-3 to qualify new sign ups for your product and receive a Slack notification with a summary of the results. This is a great way of extracting use
 
 ## Credits
 
