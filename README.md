@@ -17,7 +17,7 @@ In the /examples folder you can find examples of how to build on top of this scr
 
 ![](/media/slack-message-example.png)
 
-- [Qualify new sign ups](examples/qualify_new_signups.py) - Use GPT-3 to qualify new sign ups for your product and receive a Slack notification with a summary of the results. This is a great way of extracting use
+- [Qualify new sign ups](/example/qualify-email-slack-bot/main.py) - Use GPT-3 to qualify new sign ups for your product and receive a Slack notification with a summary of the results. This is a great way of extracting use
 
 ## Credits
 
