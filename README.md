@@ -19,7 +19,7 @@ In the /examples folder you can find examples of how to build on top of this scr
 
 - [Qualify new sign ups](/example/qualify-email-slack-bot/main.py) - Use GPT-3 to qualify new sign ups for your product and receive a Slack notification with a summary of the results. This is a great way of extracting use
 
-_Update_ this is now a feature as part of [June.so](https://june.so) - [check it out](https://qualify.june.so)!
+**Update** this is now a feature as part of [June.so](https://june.so) - [check it out](https://qualify.june.so)!
 
 ## Credits
 
